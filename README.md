@@ -1,3 +1,3 @@
-# broadway
+# Broadway Code Practice
 
-[button url="https://antoniocintora.github.io/broadway/"]
+[Preview](https://antoniocintora.github.io/broadway/)
